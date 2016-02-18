@@ -1,7 +1,7 @@
-Plug-n-play scripts for batch mode processing on the NM cluster
+Plug-n-play scripts for batch mode processing on the AOC cluster
 ======
 
-These scripts will get you running batch mode processes on the NM cluster in no time.
+These scripts will get you running batch mode processes on the AOC cluster in no time.
 
 To get started, look in batch.bash and set the user inputs.
 
