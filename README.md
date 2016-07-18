@@ -1,4 +1,4 @@
-These scripts will get you running batch mode processes on the NRAO AOC cluster in no time.
+These scripts will get you running batch mode processes on the NRAO Science Operations Center cluster in no time.
 
 To get started, look in batch.bash and set the user inputs.
 
