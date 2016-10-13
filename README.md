@@ -6,6 +6,6 @@ The code illustrates batch processing where CASA is used for some of the analysi
 
 Latest version: 1.0 ([download here](https://github.com/chrishales/NRAO-SOC-cluster_batch-processing/releases/latest))
 
-Written by Christopher A. Hales. Released under a BSD 3-Clause License, see LICENSE for details.
+Written by Christopher A. Hales. Released under a BSD 3-Clause License; see LICENSE for details.
 
 If you find these scripts useful, I would appreciate an email and an acknowledgement in your work. You might also consider buying me a lasagna.
