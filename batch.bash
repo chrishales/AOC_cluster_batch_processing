@@ -1,5 +1,5 @@
 #!/bin/bash
-# Chris Hales, 29 April 2016
+# Chris Hales, 13 October 2016
 # For use on NRAO Socorro cluster
 # May be useful elsewhere
 # Released under a BSD 3-Clause License, see LICENSE for details
